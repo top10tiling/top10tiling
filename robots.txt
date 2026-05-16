@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.top10tiling.com.au/sitemap.xml
